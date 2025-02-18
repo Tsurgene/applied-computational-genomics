@@ -3,3 +3,4 @@
 # Ignore the specific directories
 
 .DS_Store
+*/genes.gtf
